@@ -1,2 +1,2 @@
-# pi-usb-cam
-simple photo collector for USB camera
+# simple-photo-uploader
+simple photo collector with configurable upload options 
